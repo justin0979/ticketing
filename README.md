@@ -2,7 +2,8 @@
 
 From Stephen Grider's [Udemy course Microservice with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/).
 
-### Reminder
+<details>
+<summary><h2>Reminder</h2></summary>
 
 Add host to `/etc/hosts` on your host machine:
 Run:
@@ -18,3 +19,5 @@ put that address (e.g. `127.0.0.1`) into `/etc/hosts` along with host name, be i
 ```
 
 On Chrome, will get "Not Secure", just click anywhere on the page and type `thisisunsafe`. Haven't checked what to do for Firefox, b/c the "thisisunsafe" didn't work for me.
+
+</details>
