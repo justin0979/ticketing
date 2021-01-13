@@ -2,7 +2,7 @@
 http://ticketing.dev
 Content-Type: application/json
 
-POST /api/users/signup 
+POST /api/users/signup/ei 
 {
   "email": "abc@abc.abc",
   "password": "1234abc"
