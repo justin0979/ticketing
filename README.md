@@ -1,6 +1,6 @@
 # Mock Ticketing App using Microservices
 
-From Stephen Grider's Udemy course Microservice with Node JS and React.
+From Stephen Grider's [Udemy course Microservice with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/).
 
 ### Reminder
 
