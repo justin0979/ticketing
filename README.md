@@ -3,7 +3,7 @@
 From Stephen Grider's [Udemy course Microservice with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/).
 
 <details>
-<summary><b>Reminder</b></summary>
+<summary><b>Reminder</b><hr /></summary>
 
 Add host to `/etc/hosts` on your host machine:
 Run:
